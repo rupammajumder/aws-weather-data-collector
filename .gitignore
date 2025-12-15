@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Generated files
+*.csv
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Terraform (if added later)
+.terraform/
+*.tfstate
